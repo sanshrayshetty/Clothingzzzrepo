@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517121085746",
+    "project_id": "clothingzzz-4e08e",
+    "storage_bucket": "clothingzzz-4e08e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517121085746:android:7eb507587a1c82fbed472b",
+        "android_client_info": {
+          "package_name": "com.Clothingzzz.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517121085746-dmqhr31k7f1fo8dpmnioe53n7jer6ppo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKwJgJ-CdM7e0GM930Mc_0YyfIf_YxT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517121085746-dmqhr31k7f1fo8dpmnioe53n7jer6ppo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
